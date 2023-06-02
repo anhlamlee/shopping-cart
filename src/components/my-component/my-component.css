@@ -87,12 +87,4 @@ td {
   padding-right: 2em;
   width: 15%;
 }
-.products__cart--detail-quantity {
-  padding: 0 0.25em;
-}
 
-.cart__warning {
-  color: rgb(223, 52, 47);
-  font-size: 0.85rem;
-  font-weight: bold;
-}
